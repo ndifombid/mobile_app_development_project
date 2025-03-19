@@ -1,0 +1,7 @@
+{
+  "name": "hybrid-calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
