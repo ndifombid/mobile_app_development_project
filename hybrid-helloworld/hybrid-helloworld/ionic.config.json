@@ -1,0 +1,7 @@
+{
+  "name": "hybrid-helloworld",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
